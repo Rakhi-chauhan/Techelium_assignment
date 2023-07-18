@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "John",
+      "designation": "Manager",
+      "age": 35
+    },
+    {
+      "id": 2, 
+      "name": "Jane",
+      "designation": "Developer",
+      "age": 28 
+    },
+    {
+      "id": 3,
+      "name": "Mark",
+      "designation": "Manager",
+      "age": 42
+    },
+    {
+      "id": 4,
+      "name": "Kerry",
+      "designation": "Designer",
+      "age": 30
+    }
+  ]
